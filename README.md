@@ -10,12 +10,12 @@ ___
 
 ## Resumo de Oportunidades
 Nesta página são exibidas as 5 maiores oportunidades em cada um dos dois critérios a seguir:
-- **MC Negativa:** As 5 combinações "Cliente-GP" com as piores margens de contribuição (R$/ton)
-- **P-R**: As 5 combinações "Cliente-GP" com os piores valores de P-R (R$/ton)
+- **MC Negativa:** As 5 combinações Grupo de Cliente-GP com as piores margens de contribuição (R$/ton)
+- **P-R**: As 5 combinações Grupo de Cliente-GP com os piores valores de P-R (R$/ton)
 
-Para analizar uma das combinações Cliente-GP exibida no Resumo de oportunidades, clique nela com o botão direito e em "Drill-through", escolha se você deseja analizá-la por Dispersão, a Cascata de Margem ou o P-R. 
+Para analizar uma das combinações Grupo de Cliente-GP exibida no Resumo de oportunidades, clique nela com o botão direito e em "Drill-through", escolha se você deseja analizá-la por Dispersão, a Cascata de Margem ou o P-R. 
 
-### - Cascata de margem:
+## Cascata de margem:
 **Gráfico:** Clicando em "Drill-Trough" > "Cascata de Margem", você será direcionado à página com o gráfico de cascata mostrando os valores em R$/ton desde o Preço de Lista até a Margem Industrial, para que possa ser analisado quanto houve de desconto, impostos, preço do FM, etc. para o cliente e GP escolhido no Resumo de Oportunidades.
 
 **Avaliação detalhada PVL:**  Na avaliação detalhada, logo abaixo do gráfico, pode-se consultar a cascata em formato de tabela, além do detalhamento por segmento, GP, material e bitola das vendas filtradas no gráfico.
@@ -23,4 +23,7 @@ Para analizar uma das combinações Cliente-GP exibida no Resumo de oportunidade
 **Filtros:** Acima do gráfico, existem campos para filtrar o que será visualizado no gráfico de cascata. Repare que ao clicar na caixa de seleção dos filtros "GP" e "Cliente", será exibido somente o cliente e GP selecionado na aba Resumo de Oportunidades.
 Caso deseje visualizar o gráfico para outros clientes, GPs, ou períodos, clique em "Redefinir Filtros" no canto superior direito. Agora será possível filtrar o gráfico conforme desejado através dos campos de filtro.
 
-### Dispersão:
+## Dispersão:
+**Gráfico:** Clicando em "Drill-Trough" > "Dispersão", você será direcionado à página com o gráfico de dispersão de Desconto(%) vs Volume(t). Nesse gráfico vc visualizara um ponto para cada cliente do Grupo de cliente selecionado no Resumo de Oportunidades (pode ser que haja apenas um ponto), e ao lado verá o gráfico de Cascata para os pontos do gráfico de dispersão. Caso queira filtrar a cascata para apenas um dos pontos do gráfico de dispersão, basta clicar no ponto desejado e ele será realçado, filtrando assim o gráfico de cascata.
+
+**Drill-down:** 
