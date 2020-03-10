@@ -15,7 +15,7 @@ Nesta página são exibidas as 5 maiores oportunidades em cada um dos dois crit�
 
 Para analizar uma das combinações Cliente-GP exibida no Resumo de oportunidades, clique nela com o botão direito e em "Drill-through", escolha se você deseja analizá-la por Dispersão, a Cascata de Margem ou o P-R. 
 
-### Cascata de margem:
+### - Cascata de margem:
 **Gráfico:** Clicando em "Drill-Trough" > "Cascata de Margem", você será direcionado à página com o gráfico de cascata mostrando os valores em R$/ton desde o Preço de Lista até a Margem Industrial, para que possa ser analisado quanto houve de desconto, impostos, preço do FM, etc. para o cliente e GP escolhido no Resumo de Oportunidades.
 
 **Avaliação detalhada PVL:**  Na avaliação detalhada, logo abaixo do gráfico, pode-se consultar a cascata em formato de tabela, além do detalhamento por segmento, GP, material e bitola das vendas filtradas no gráfico.
