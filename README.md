@@ -27,3 +27,4 @@ Caso deseje visualizar o gráfico para outros clientes, GPs, ou períodos, cliqu
 **Gráfico:** Clicando em "Drill-Trough" > "Dispersão", você será direcionado à página com o gráfico de dispersão de Desconto(%) vs Volume(t). Nesse gráfico vc visualizara um ponto para cada cliente do Grupo de cliente selecionado no Resumo de Oportunidades (pode ser que haja apenas um ponto), e ao lado verá o gráfico de Cascata para os pontos do gráfico de dispersão. Caso queira filtrar a cascata para apenas um dos pontos do gráfico de dispersão, basta clicar no ponto desejado e ele será realçado, filtrando assim o gráfico de cascata.
 
 **Drill-down:** 
+![navegação Drill-Down](https://github.com/Luciano-Belgo/RGM-Guia/blob/master/drill%20down%20-%20drill%20up.png)
