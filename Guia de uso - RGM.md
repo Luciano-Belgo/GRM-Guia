@@ -27,6 +27,6 @@ Caso deseje visualizar o gráfico para outros clientes, GPs, ou períodos, cliqu
 <br>
 <br>
 
-___
+
 # Em construção...
-___
+
