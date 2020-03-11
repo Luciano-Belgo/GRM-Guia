@@ -17,7 +17,7 @@ Para analizar uma das combinações Grupo de Cliente-GP exibida no Resumo de opo
 
 ___
 
-## Cascata de margem:
+## Cascata de Margem
 **Gráfico:** Clicando em "Drill-Trough" > "Cascata de Margem", você será direcionado à página com o gráfico de cascata mostrando os valores em R$/ton desde o Preço de Lista até a Margem Industrial, para que possa ser analisado quanto houve de desconto, impostos, preço do FM, etc. para o cliente e GP escolhido no Resumo de Oportunidades.
 
 **Avaliação detalhada PVL:**  Na avaliação detalhada, logo abaixo do gráfico, pode-se consultar a cascata em formato de tabela, além do detalhamento por segmento, GP, material e bitola das vendas filtradas no gráfico.
