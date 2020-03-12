@@ -37,6 +37,6 @@ Podemos por exemplo querer visualizar o gráfico com cada ponto sendo um cliente
 
 - A **terceira seta**, representada com o número 3 na imagem acima, avança para o próximo nível de hierarquia. Se você estiver visualizando os grupos de clientes no gráfico, ao clicar na terceira seta você passará a ver cada ponto como um cliente, e se clicar novamente você chegará ao nivel de maior granilaridade, onde cada ponto do gráfico representa uma OV.
 
-Já a **primeira seta** faz o chamado Drill up, ou seja, o caminho inverso da terceira seta, subindo a hierarquia de OV para cliente e de cliente para grupo de cliente.
+- Já a **primeira seta** faz o chamado Drill up, ou seja, o caminho inverso da terceira seta, subindo a hierarquia de OV para cliente e de cliente para grupo de cliente.
 
-A **segunda seta** é o reucrso que habilita o Drill Down. Clicando nessa seta, ela ficará com um circulo preto, enquanto ela tiver habilitada, você poderá clicar em algum gurpo de cliente para visualizar todos os clientes daquele grupo. Caso habilite o Drill-Down na hierarquia de clientes, você poderá clicar em um cliente para visualizar todas as OVs apenas daquele cliente selecionado. Observe que para poder filtrar algum ponto no gráfico é necessário desabilitar a seta de Drill-Down.
+- A **segunda seta** é o reucrso que habilita o Drill Down. Clicando nessa seta, ela ficará com um circulo preto, enquanto ela tiver habilitada, você poderá clicar em algum gurpo de cliente para visualizar todos os clientes daquele grupo. Caso habilite o Drill-Down na hierarquia de clientes, você poderá clicar em um cliente para visualizar todas as OVs apenas daquele cliente selecionado. Observe que para poder filtrar algum ponto no gráfico é necessário desabilitar a seta de Drill-Down.
