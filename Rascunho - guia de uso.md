@@ -24,11 +24,14 @@ Para analizar uma das combinações Grupo de Cliente-GP exibida no Resumo de opo
 Caso deseje visualizar o gráfico para outros clientes, GPs, ou períodos, clique em "Redefinir Filtros" no canto superior direito. Agora será possível filtrar o gráfico conforme desejado através dos campos de filtro.
 
 ## Dispersão:
-**Gráfico:** Clicando em "Drill-Trough" > "Dispersão", você será direcionado à página com o gráfico de dispersão de Desconto(%) vs Volume(t). Nesse gráfico vc visualizara um ponto para cada cliente do Grupo de cliente selecionado no Resumo de Oportunidades (pode ser que haja apenas um ponto), e ao lado verá o gráfico de Cascata para os pontos do gráfico de dispersão. Caso queira filtrar a cascata para apenas um dos pontos do gráfico de dispersão, basta clicar no ponto desejado e ele será realçado, filtrando assim o gráfico de cascata.
+**Gráfico:** Clicando em "Drill-Trough" > "Dispersão", você será direcionado à página com o gráfico de dispersão de Desconto(%) vs Volume(t). Nesse gráfico você visualizará um ponto para cada cliente do Grupo de cliente selecionado no Resumo de Oportunidades (pode ser que haja apenas um ponto), e ao lado verá o gráfico de Cascata para os pontos do gráfico de dispersão. Caso queira filtrar a cascata para apenas um dos pontos do gráfico de dispersão, basta clicar no ponto desejado e ele será realçado, filtrando assim o gráfico de cascata.
 
-**Drill-down:** No gráfico de dispersão existe uma hierarquia de dados: cliente e OV, ou seja, podemos utilizar o gráfico de duas formas diferentes. 
-- A primeira forma é onde cada ponto do gráfico representa um cliente.
-- A segunda forma, em um nivel maior de granularidade, podemos ver cada ponto como uma OV. 
+**Drill-down:** No gráfico de dispersão existe uma hierarquia de dados: "Grupo de Cliente", "Cliente" e "Nº de documento", ou seja, podemos utilizar o gráfico de três formas diferentes. 
+- A primeira forma é onde cada ponto do gráfico representa um grupo de cliente.
+- A segunda forma é onde cada ponto do gráfico representa um cliente.
+- A terceira forma, no maior nível de granularidade, podemos ver cada ponto como um Nº de documento (OV). 
 
-Podemos por exemplo querer visualizar o gráfico com cada ponto sendo um cliente dentro de um segmento, e então decidimos visualizar as ordem de venda de um determinado cliente que encontramos no gráfico. Essa navegação entre clientes e OVs é feita a através dos botões de navegação de Drill-Down e Drill-Up encontrados no topo do gráfico, conforme imagem abaixo:<br>
-![navegação Drill-Down](https://github.com/Luciano-Belgo/RGM-Guia/blob/master/drill%20down%20-%20drill%20up.png)
+Podemos por exemplo querer visualizar o gráfico com cada ponto sendo um cliente dentro de um segmento, e então decidimos visualizar as ordens de venda de um determinado cliente que encontramos no gráfico. Essa navegação entre grupo de clientes, clientes e OVs é feita a através dos botões de navegação de Drill-Down e Drill-Up encontrados no topo do gráfico, conforme imagem abaixo:<br>
+![navegação Drill-Down](https://github.com/Luciano-Belgo/RGM-Guia/blob/master/drill%20down%20-%20drill%20up.png) <br>
+
+A primeira seta, representada com oEste <font color="green"> Some green text </font>
