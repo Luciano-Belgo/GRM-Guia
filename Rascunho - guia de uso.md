@@ -26,7 +26,8 @@ Caso deseje visualizar o gráfico para outros clientes, GPs, ou períodos, cliqu
 ## Dispersão:
 **Gráfico:** Clicando em "Drill-Trough" > "Dispersão", você será direcionado à página com o gráfico de dispersão de Desconto(%) vs Volume(t). Nesse gráfico você visualizará um ponto para cada cliente do Grupo de cliente selecionado no Resumo de Oportunidades (pode ser que haja apenas um ponto), e ao lado verá o gráfico de Cascata para os pontos do gráfico de dispersão. Caso queira filtrar a cascata para apenas um dos pontos do gráfico de dispersão, basta clicar no ponto desejado e ele será realçado, filtrando assim o gráfico de cascata.
 
-**Drill-down:** No gráfico de dispersão existe uma hierarquia de dados: "Grupo de Cliente", "Cliente" e "Nº de documento", ou seja, podemos utilizar o gráfico de três formas diferentes. 
+**Drill-down:** O Power BI fornece uma ferramenta muito poderosa de navegação interativa entre hierarquias dos visuais, conhecida como Drill-down. Apesar de parecer um pouco confuso no início, ao dominar essa ferramenta de navegação o usuário terá um poder de análise bem mais detalhada em suas mãos.
+O gráfico de dispersão permite esse tipo de navegação, pois possui a seguinte estrutura hierarquica: "Grupo de Cliente", "Cliente" e "Nº de documento", ou seja, podemos utilizar o gráfico de três formas diferentes. 
 - A primeira forma é onde cada ponto do gráfico representa um grupo de cliente.
 - A segunda forma é onde cada ponto do gráfico representa um cliente.
 - A terceira forma, no maior nível de granularidade, podemos ver cada ponto como um Nº de documento (OV). 
@@ -34,4 +35,6 @@ Caso deseje visualizar o gráfico para outros clientes, GPs, ou períodos, cliqu
 Podemos por exemplo querer visualizar o gráfico com cada ponto sendo um cliente dentro de um segmento, e então decidimos visualizar as ordens de venda de um determinado cliente que encontramos no gráfico. Essa navegação entre grupo de clientes, clientes e OVs é feita a através dos botões de navegação de Drill-Down e Drill-Up encontrados no topo do gráfico, conforme imagem abaixo:<br>
 ![navegação Drill-Down](https://github.com/Luciano-Belgo/RGM-Guia/blob/master/drill%20down%20-%20drill%20up.png) <br>
 
-A primeira seta, representada com oEste <font color="green"> Some green text </font>
+A terceira seta, representada com o número 3 na imagem acima, avança para o próximo nível de hierarquia. Se você estiver visualizando os grupos de clientes no gráfico, ao clicar na terceira seta você passará a ver cada ponto como um cliente, e se clicar novamente você chegará ao nivel de maior granilaridade, onde cada ponto do gráfico representa uma OV.
+Já a primeira seta faz o chamado Drill up, ou seja, o caminho inverso da terceira seta, subindo a hierarquia de OV para cliente e de cliente para grupo de cliente.
+A segunda seta é o reucrso que habilita o Drill Down. Clicando nessa seta, ela ficará com um circulo preto, enquanto ela tiver habilitada, você poderá clicar em algum gurpo de cliente para visualizar todos os clientes daquele grupo. Caso habilite o Drill-Down na hierarquia de clientes, você poderá clicar em um cliente para visualizar todas as OVs apenas daquele cliente selecionado. Observe que para poder filtrar algum ponto no gráfico é necessário desabilitar a seta de Drill-Down.
