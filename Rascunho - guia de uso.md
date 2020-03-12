@@ -20,7 +20,7 @@ Para analizar uma das combinações Grupo de Cliente-GP exibida no Resumo de opo
 
 **Avaliação detalhada PVL:**  Na avaliação detalhada, logo abaixo do gráfico, pode-se consultar a cascata em formato de tabela, além do detalhamento por segmento, GP, material e bitola das vendas filtradas no gráfico.
 
-**Filtros:** Acima do gráfico, existem campos para filtrar o que será visualizado no gráfico de cascata. Repare que ao clicar na caixa de seleção dos filtros "GP" e "Cliente", será exibido somente o cliente e GP selecionado na aba Resumo de Oportunidades.
+**Filtros visuais:** Acima do gráfico, existem campos para filtrar o que será visualizado no gráfico de cascata. Repare que ao clicar na caixa de seleção dos filtros "GP" e "Cliente", será exibido somente o cliente e GP selecionado na aba Resumo de Oportunidades.
 Caso deseje visualizar o gráfico para outros clientes, GPs, ou períodos, clique em "Redefinir Filtros" no canto superior direito. Agora será possível filtrar o gráfico conforme desejado através dos campos de filtro.
 
 ## Dispersão:
@@ -40,3 +40,6 @@ Podemos por exemplo querer visualizar o gráfico com cada ponto sendo um cliente
 - Já a **primeira seta** faz o chamado Drill up, ou seja, o caminho inverso da terceira seta, subindo a hierarquia de OV para cliente e de cliente para grupo de cliente.
 
 - A **segunda seta** é o reucrso que habilita o Drill Down. Clicando nessa seta, ela ficará com um circulo preto, enquanto ela tiver habilitada, você poderá clicar em algum gurpo de cliente para visualizar todos os clientes daquele grupo. Caso habilite o Drill-Down na hierarquia de clientes, você poderá clicar em um cliente para visualizar todas as OVs apenas daquele cliente selecionado. Observe que para poder filtrar algum ponto no gráfico é necessário desabilitar a seta de Drill-Down.
+
+**Filtros visuais:** Acima do gráfico, asism como na página "Cascata", existem campos para filtrar o que será visualizado nos gráficos abaixo. Repare que ao clicar na caixa de seleção dos filtros "Grupo Cliente", "Cliente" e "GP", será exibido somente o grupo de cliente, cliente e GP selecionado na aba Resumo de Oportunidades. Isso ocorre pois a visualização está filtrada pelo Drill-Through da página "Resumo de oportunidades"
+Para comparar o grupo de cliente, cliente ou GP com outros através do gráfico de dispersão, limpe o filtro desejadona aba lateral de filtros
