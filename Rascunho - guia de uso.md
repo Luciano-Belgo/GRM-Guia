@@ -47,3 +47,11 @@ Podemos por exemplo querer visualizar o gráfico com cada ponto sendo um cliente
 **Filtros visuais:** Acima do gráfico, asism como na página "Cascata", existem campos para filtrar o que será visualizado nos gráficos abaixo. Repare que ao clicar na caixa de seleção dos filtros "Grupo Cliente", "Cliente" e "GP", será exibido somente o grupo de cliente, cliente e GP selecionado na aba Resumo de Oportunidades. Isso ocorre pois a visualização está filtrada pelo Drill-Through da página "Resumo de oportunidades". Caso deseje visualizar o gráfico para outros clientes, GPs, ou períodos, clique em "Redefinir Filtros" no canto superior direito. Assim os filtros de Drill-through serão resetados e será possível filtrar o gráfico conforme desejado através dos campos de filtro.
 
 **Filtros do Drill-through:** Para comparar o grupo de cliente, cliente ou GP com outros através do gráfico de dispersão, limpe o filtro desejado na aba lateral de filtros, conforme imagem abaixo:<br><br><img src="https://github.com/Luciano-Belgo/RGM-Guia/blob/master/imagens/Limpar%20filtros%20laterais.png">
+
+___
+## P-R
+**Gráfico P-R:** Clicando em "Drill-Trough" > "P-R", você será direcionado à página P-R com uma barra representando o trimestre atual, selecione no canto superior direito o período desejado para o gráfico de P-R.
+
+**Gráficos de cascata:** Logo abaixo do P-R, pode ser visualizado um primeiro gráfico de cascata para o trimestre referência (Q4/2016) e um segundo para o período base (trimestre atual). Logo acima dos gráficos é possível alterar os períodos dos mesmos.
+
+**Avaliação detalhada PVL:** Enquanto o gráfico exibe a cascata em um período específico, as tabelas de avaliação detalhada do PVL exibe a cascata em um intervalo de tempo selecionado.
