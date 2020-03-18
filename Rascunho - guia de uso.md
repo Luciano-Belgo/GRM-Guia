@@ -20,12 +20,16 @@ Para analizar uma das combinações Grupo de Cliente-GP exibida no Resumo de opo
 
 ___
 ## CASCATA DE MARGEM
-**Gráfico:** Clicando em "Drill-Trough" > "Cascata de Margem", você será direcionado à página com o gráfico de cascata mostrando os valores em R$/ton desde o Preço de Lista até a Margem Industrial, para que possa ser analisado quanto houve de desconto, impostos, preço do FM, etc. para o cliente e GP escolhido no Resumo de Oportunidades.
+**Gráfico:** Clicando em "Drill-Trough" > "Cascata de Margem", você será direcionado à página com o gráfico de cascata mostrando os valores em R$/ton desde o Preço de Lista até a Margem Industrial, para que possa ser analisado quanto houve de desconto, impostos, preço do FM, etc. para o grupo de cliente e GP escolhido no Resumo de Oportunidades.
 
-**Avaliação detalhada PVL:**  Na avaliação detalhada, logo abaixo do gráfico, pode-se consultar a cascata em formato de tabela, além do detalhamento por segmento, GP, material e bitola das vendas filtradas no gráfico.
+**Avaliação detalhada PVL:**  Na avaliação detalhada, logo abaixo do gráfico, temos duas tabelas:
+- **Primeira tabela:** pode-se consultar a cascata em formato de tabela para o mês atual, assim como mostrado no gráfico de cascata. Porém nessa tabela é possível comparar os valores da cascata com períodos anteriores, utilizando o filtro de data no canto superior direito da página. Basta selecionar a data inicial e final desejada.
+- **Segunda tabela:** para o mesmo período filtrado no canto superior direito da página, é possível navegar por níveis de informação mais granulares como Segmento > GP > Material > Bitola.
 
-**Filtros visuais:** Acima do gráfico, existem campos para filtrar o que será visualizado no gráfico de cascata. Repare que ao clicar na caixa de seleção dos filtros "GP" e "Cliente", será exibido somente o cliente e GP selecionado na aba Resumo de Oportunidades.
-Caso deseje visualizar o gráfico para outros clientes, GPs, ou períodos, clique em "Redefinir Filtros" no canto superior direito. Assim os filtros de Drill-through serão resetados e será possível filtrar o gráfico conforme desejado através dos campos de filtro.
+Lembrando que todas as informações exibidas na página referem-se ao grupo de cliente e GP selecionado anteriormente na página Resumo de Oportunidades. Caso queira personalizar os segmentos, clientes e GP exibidos, utilize os filtros visuais no topo dá página.
+
+**Filtros visuais:** Acima do gráfico, existem campos para filtrar o que será visualizado no gráfico de cascata e tabelas. Repare que ao clicar na caixa de seleção dos filtros "GP" e "Cliente", será exibido somente o grupo de cliente e GP selecionado na aba Resumo de Oportunidades.
+Caso deseje visualizar o gráfico para outros clientes, GPs, ou períodos, clique em "Redefinir Filtros" no canto superior direito. Assim os filtros de Drill-through serão resetados e será possível filtrar o gráfico conforme desejado através dos campos de filtro. Outra opção, caso nao queria resetar todos os filtros que estão aplicados, é possível abrir a barra lateral de filtros, e na sessão "Filtros nesta página", apagar os filtros desejados (Segmento, Grupo de Cliente e/ou GP).
 
 ___
 ## DISPERSÃO
