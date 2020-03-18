@@ -38,7 +38,9 @@ Caso deseje visualizar o gráfico para outros clientes, GPs, ou períodos, cliqu
 
 ___
 ## DISPERSÃO
-**Gráfico:** Clicando em "Drill-Trough" > "Dispersão", você será direcionado à página com o gráfico de dispersão de Desconto(%) vs Volume(t). Nesse gráfico você visualizará um ponto para cada cliente do Grupo de cliente selecionado no Resumo de Oportunidades (pode ser que haja apenas um ponto), e ao lado verá o gráfico de Cascata para os pontos do gráfico de dispersão. Caso queira filtrar a cascata para apenas um dos pontos do gráfico de dispersão, basta clicar no ponto desejado e ele será realçado, filtrando assim o gráfico de cascata.
+**Gráfico de dispersão:** Clicando em "Drill-Trough" > "Dispersão", você será direcionado à página com o gráfico de dispersão de Desconto(%) vs Volume(t). Nesse gráfico você visualizará um ponto para cada cliente do Grupo de cliente selecionado no Resumo de Oportunidades (pode ser que haja apenas um ponto), e ao lado verá o gráfico de Cascata para os pontos do gráfico de dispersão. Caso queira filtrar a cascata para apenas um dos pontos do gráfico de dispersão, basta clicar no ponto desejado e ele será realçado, filtrando assim o gráfico de cascata.
+
+<img src="https://raw.githubusercontent.com/Luciano-Belgo/RGM-Guia/master/imagens/Dispers%C3%A3o.PNG"><br>
 
 **Drill-down:** O Power BI fornece uma ferramenta muito poderosa de navegação interativa entre hierarquias dos visuais, conhecida como Drill-down. Apesar de parecer um pouco confuso no início, ao dominar essa ferramenta de navegação o usuário terá um poder de análise bem mais detalhada em suas mãos.
 O gráfico de dispersão permite esse tipo de navegação, pois possui a seguinte estrutura hierarquica: "Grupo de Cliente", "Cliente" e "Nº de documento", ou seja, podemos utilizar o gráfico de três formas diferentes. 
@@ -57,7 +59,7 @@ Podemos por exemplo querer visualizar o gráfico com cada ponto sendo um cliente
 
 **Filtros visuais:** Acima do gráfico, asism como na página "Cascata", existem campos para filtrar o que será visualizado nos gráficos abaixo. Repare que ao clicar na caixa de seleção dos filtros "Grupo Cliente", "Cliente" e "GP", será exibido somente o grupo de cliente, cliente e GP selecionado na aba Resumo de Oportunidades. Isso ocorre pois a visualização está filtrada pelo Drill-Through da página "Resumo de oportunidades". Caso deseje visualizar o gráfico para outros clientes, GPs, ou períodos, clique em "Redefinir Filtros" no canto superior direito. Assim os filtros de Drill-through serão resetados e será possível filtrar o gráfico conforme desejado através dos campos de filtro.
 
-**Filtros do Drill-through:** Para comparar o grupo de cliente, cliente ou GP com outros através do gráfico de dispersão, limpe o filtro desejado na aba lateral de filtros, conforme imagem abaixo:<br><br><img src="https://github.com/Luciano-Belgo/RGM-Guia/blob/master/imagens/Limpar%20filtros%20laterais.png">
+**Filtros do Drill-through:** Para comparar o grupo de cliente, cliente ou GP com outros através do gráfico de dispersão, limpe o filtro desejado na aba lateral de filtros, conforme imagem abaixo. Você pode por exemplo limpar o filtro de grupo de cliente, para comparar o volume e desconto para diferentes clientes que compraram o GP filtrado. <br><br><img src="https://github.com/Luciano-Belgo/RGM-Guia/blob/master/imagens/Limpar%20filtros%20laterais.png">
 
 ___
 ## P-R
