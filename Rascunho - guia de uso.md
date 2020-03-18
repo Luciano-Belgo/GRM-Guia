@@ -20,11 +20,16 @@ Para analizar uma das combinações Grupo de Cliente-GP exibida no Resumo de opo
 
 ___
 ## CASCATA DE MARGEM
-**Gráfico:** Clicando em "Drill-Trough" > "Cascata de Margem", você será direcionado à página com o gráfico de cascata mostrando os valores em R$/ton desde o Preço de Lista até a Margem Industrial, para que possa ser analisado quanto houve de desconto, impostos, preço do FM, etc. para o grupo de cliente e GP escolhido no Resumo de Oportunidades.
+**Gráfico de cascata:** Clicando em "Drill-Trough" > "Cascata de Margem", você será direcionado à página com o gráfico de cascata mostrando os valores em R$/ton desde o Preço de Lista até a Margem Industrial, para que possa ser analisado quanto houve de desconto, impostos, preço do FM, etc. para o grupo de cliente e GP escolhido no Resumo de Oportunidades.
+
+<img src="https://raw.githubusercontent.com/Luciano-Belgo/RGM-Guia/master/imagens/Cascata%20de%20margem.PNG"><br>
+
 
 **Avaliação detalhada PVL:**  Na avaliação detalhada, logo abaixo do gráfico, temos duas tabelas:
 - **Primeira tabela:** pode-se consultar a cascata em formato de tabela para o mês atual, assim como mostrado no gráfico de cascata. Porém nessa tabela é possível comparar os valores da cascata com períodos anteriores, utilizando o filtro de data no canto superior direito da página. Basta selecionar a data inicial e final desejada.
 - **Segunda tabela:** para o mesmo período filtrado no canto superior direito da página, é possível navegar por níveis de informação mais granulares como Segmento > GP > Material > Bitola.
+
+<img src="https://raw.githubusercontent.com/Luciano-Belgo/RGM-Guia/master/imagens/Avalia%C3%A7%C3%A3o%20detalhada.PNG"><br>
 
 Lembrando que todas as informações exibidas na página referem-se ao grupo de cliente e GP selecionado anteriormente na página Resumo de Oportunidades. Caso queira personalizar os segmentos, clientes e GP exibidos, utilize os filtros visuais no topo da página.
 
