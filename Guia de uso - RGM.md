@@ -2,7 +2,7 @@
 
 **Acesso ao relatório:** [Power BI - RGM 1.0](https://app.powerbi.com/groups/363fc772-dd63-4b14-9874-23adbff5b394/reports/86144c27-0021-4000-8f7c-6361bf0873e2/ReportSectiond4541df725c8d50c0f4c)
 
-**Veja também o guia em vídeo do RGM:** [Guia de uso](https://arcelormittal.sharepoint.com/:v:/r/sites/arames/espaco-share/BBA/maisvalor/Documentos%20Compartilhados/Guia%20RGM%201.0.mp4?csf=1&e=VCe0hf)
+**Veja também o guia em vídeo do RGM:** [Guia de uso](https://arcelormittal.sharepoint.com/sites/arames/espaco-share/BBA/maisvalor/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2Farames%2Fespaco%2Dshare%2FBBA%2Fmaisvalor%2FDocumentos%20Compartilhados%2FPrecifica%C3%A7%C3%A3o%2FGuia%20RGM%201%2E0%2Emp4&parent=%2Fsites%2Farames%2Fespaco%2Dshare%2FBBA%2Fmaisvalor%2FDocumentos%20Compartilhados%2FPrecifica%C3%A7%C3%A3o)
 ___
 **Updates versão 1.0:**
 - Inclusão de filtros visuais na página Dispersão
