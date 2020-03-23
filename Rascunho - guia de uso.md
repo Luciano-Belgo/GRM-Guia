@@ -14,10 +14,10 @@ ___
 
 ___
 ## PÁGINAS DO RELATÓRIO
-- Resumo de Oportunidades
-- P-R
-- Cascata de Margem
-- Dispersão
+- **Resumo de Oportunidades**
+- **P-R**
+- **Cascata de Margem**
+- **Dispersão**
 
 ___
 
