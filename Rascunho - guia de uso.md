@@ -5,7 +5,7 @@
 **Veja também o guia em vídeo do RGM:** [Guia de uso](https://arcelormittal.sharepoint.com/:v:/r/sites/arames/espaco-share/BBA/maisvalor/Documentos%20Compartilhados/Guia%20RGM%201.0.mp4?csf=1&e=VCe0hf)
 ___
 **Updates versão 1.0:**
-- Inclusão de filtros visuais na página Dispersão
+ - Inclusão de filtros visuais na página Dispersão
 - Alteração das oportunidades de Margem de Contribuição para trazer os mais negativos em R$, e não mais em R$/ton
 - Inclusão de caixas de texto para pesquisar nos visuais de filtros
 - Inclusão da informação do último mês com dados disponíveis, de verde no topo na página Resumo de Oportunidades
