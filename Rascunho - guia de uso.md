@@ -1,6 +1,6 @@
 # Guia de uso do Relatório de Gestão de Margem (RGM)
 
-**Acesso ao relatório:** [Power BI - RGM](https://app.powerbi.com/groups/363fc772-dd63-4b14-9874-23adbff5b394/reports/86144c27-0021-4000-8f7c-6361bf0873e2/ReportSectiond4541df725c8d50c0f4c)
+**Acesso ao relatório:** [Power BI - RGM 1.0](https://app.powerbi.com/groups/363fc772-dd63-4b14-9874-23adbff5b394/reports/86144c27-0021-4000-8f7c-6361bf0873e2/ReportSectiond4541df725c8d50c0f4c)
 
 **Veja também o guia em vídeo do RGM:** [Guia de uso](https://arcelormittal.sharepoint.com/:v:/r/sites/arames/espaco-share/BBA/maisvalor/Documentos%20Compartilhados/Guia%20RGM%201.0.mp4?csf=1&e=VCe0hf)
 ___
@@ -11,6 +11,8 @@ ___
 - Inclusão da informação do último mês com dados disponíveis, de verde no topo na página Resumo de Oportunidades
 - Melhorias visuais e de performance
 - Melhorias diversas
+
+*[Confira aqui](https://github.com/Luciano-Belgo/RGM-Guia/blob/master/Updates.md) o histórico de updates das versão anteriores.*
 
 ___
 ## PÁGINAS DO RELATÓRIO
