@@ -22,7 +22,7 @@ ___
 
 ___
 
-## RESUMO DE OPORTUNIDADES
+## RESUMO DE OPORTUNIDADES 
 Nesta página são exibidas as 5 maiores oportunidades em cada um dos dois critérios a seguir:
 - **Margem Contribuição (R$):** As 5 combinações Grupo de Cliente-GP com as  margens de contribuição (R$/ton) mais negativas.
 - **P-R (R$/ton)**: As 5 combinações Grupo de Cliente-GP com os piores valores de P-R (R$/ton) mais negativos.
