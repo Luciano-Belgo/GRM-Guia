@@ -27,7 +27,7 @@ Nesta página são exibidas as 5 maiores oportunidades em cada um dos dois crit�
 - **Margem Contribuição (R$):** As 5 combinações Grupo de Cliente-GP com as  margens de contribuição (R$/ton) mais negativas.
 - **P-R (R$/ton)**: As 5 combinações Grupo de Cliente-GP com os piores valores de P-R (R$/ton) mais negativos.
 
-<img src="https://raw.githubusercontent.com/Luciano-Belgo/RGM-Guia/master/imagens/Resumo%20de%20oportunidade.png"><br>
+<img src="https://raw.githubusercontent.com/Luciano-Belgo/RGM-Guia/master/imagens/Resumo%20de%20oportunidades.png"><br>
 
 Para analizar uma das combinações Grupo de Cliente-GP exibida no Resumo de oportunidades, clique nela com o botão direito e em **Drill-through**, escolha se você deseja analizá-la por **Dispersão**, **Cascata de Margem** ou o **P-R**. 
 
