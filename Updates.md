@@ -1,4 +1,13 @@
 # Histórico de updates RGM
+
+___
+**Updates versão 1.1:**
+- Inclusão de botão C/DCM e S/DCM na página "Resumo de Oportunidades"
+- Inclusão do valor de Royalties Cascatas de Margem
+- Inclusão de título no gráfico de disperção, informando qual o nível hierárquico esta sendo visualizado (Grupo de Cliente, Cód. Cliente ou Nº do documento)
+- Inclusão de um ícone vermelho de alerta nos gráficos de Cascata de Margem quando o valor dos campos "P-R", "Margem de Contribuição" ou "Margem Industrial" forem negativos.
+- Melhorias diversas
+
 ___
 **Updates versão 1.0:**
 - Inclusão de filtros visuais na página Dispersão
@@ -8,5 +17,3 @@ ___
 - Melhorias visuais e de performance
 - Melhorias diversas
 ___
-**Updates versão 1.1:**
-- Em construção...
