@@ -1,15 +1,14 @@
 # Guia de uso do Relatório de Gestão de Margem (RGM)
 
-**Acesso ao relatório:** [Power BI - RGM 1.0](https://app.powerbi.com/groups/363fc772-dd63-4b14-9874-23adbff5b394/reports/86144c27-0021-4000-8f7c-6361bf0873e2/ReportSectiond4541df725c8d50c0f4c)
+**Acesso ao relatório:** [Power BI - RGM 1.1](https://app.powerbi.com/groups/363fc772-dd63-4b14-9874-23adbff5b394/reports/86144c27-0021-4000-8f7c-6361bf0873e2/ReportSectiond4541df725c8d50c0f4c)
 
 **Veja também o guia em vídeo do RGM:** [Guia de uso](https://arcelormittal.sharepoint.com/sites/arames/espaco-share/BBA/maisvalor/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2Farames%2Fespaco%2Dshare%2FBBA%2Fmaisvalor%2FDocumentos%20Compartilhados%2FPrecifica%C3%A7%C3%A3o%2FGuia%20RGM%201%2E0%2Emp4&parent=%2Fsites%2Farames%2Fespaco%2Dshare%2FBBA%2Fmaisvalor%2FDocumentos%20Compartilhados%2FPrecifica%C3%A7%C3%A3o)
 ___
-**Updates versão 1.0:**
-- Inclusão de filtros visuais na página Dispersão
-- Alteração das oportunidades de Margem de Contribuição para trazer os mais negativos em R$, e não mais em R$/ton
-- Inclusão de caixas de texto para pesquisar nos visuais de filtros
-- Inclusão da informação do último mês com dados disponíveis, de verde no topo na página Resumo de Oportunidades
-- Melhorias visuais e de performance
+**Updates versão 1.1:**
+- Inclusão de botão C/DCM e S/DCM na página "Resumo de Oportunidades"
+- Inclusão do valor de Royalties Cascatas de Margem
+- Inclusão de título no gráfico de disperção, informando qual o nível hierárquico esta sendo visualizado (Grupo de Cliente, Cód. Cliente ou Nº do documento)
+- Inclusão de um ícone vermelho de alerta nos gráficos de Cascata de Margem quando o valor dos campos "P-R", "Margem de Contribuição" ou "Margem Industrial" forem negativos.
 - Melhorias diversas
 
 *[Confira aqui](https://github.com/Luciano-Belgo/RGM-Guia/blob/master/Updates.md) o histórico de updates das versão anteriores.*
