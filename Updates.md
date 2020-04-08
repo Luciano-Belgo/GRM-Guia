@@ -6,6 +6,8 @@ ___
 - Inclusão do valor de Royalties Cascatas de Margem
 - Inclusão de título no gráfico de disperção, informando qual o nível hierárquico esta sendo visualizado (Grupo de Cliente, Cód. Cliente ou Nº do documento)
 - Inclusão de um ícone vermelho de alerta nos gráficos de Cascata de Margem quando o valor dos campos "P-R", "Margem de Contribuição" ou "Margem Industrial" forem negativos.
+- Alteração do eixo X do gráfico de dispersão de média de volume para soma de volume
+- Alteração dos filtros de nível de relatório e visuais, deixando os filtros por tipo de material que excluem os materiais que não são produzidos a partir do FM na Belgo apenas nos itens de P-R
 - Melhorias diversas
 
 ___
