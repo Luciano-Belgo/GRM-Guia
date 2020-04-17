@@ -11,6 +11,7 @@ ___
 - Inclusão de um ícone vermelho de alerta nos gráficos de Cascata de Margem quando o valor dos campos "P-R", "Margem de Contribuição" ou "Margem Industrial" forem negativos.
 - Alteração do eixo X do gráfico de dispersão de média de volume para soma de volume
 - Alteração dos filtros de nível de relatório e visuais, deixando os filtros por tipo de material que excluem os materiais que não são produzidos a partir do FM na Belgo apenas nos itens de P-R
+- Correção da base de clientes que estava ocasionando a não identificação do cliente em algumas vendas.
 - Melhorias diversas
 
 *[Confira aqui](https://github.com/Luciano-Belgo/RGM-Guia/blob/master/Updates.md) o histórico de updates das versão anteriores.*
